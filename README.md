@@ -1,0 +1,2 @@
+# ihaowai.github
+index home
